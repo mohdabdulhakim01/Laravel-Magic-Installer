@@ -32,11 +32,11 @@ For Lazy Load the project domain name :
 
     laramin --install project_name --hostname .local --apache-vhost
 
-To edit both window host file and xampp vhost file :
+To edit both windos host file and xampp vhost file :
 
     laramin -eh
     laramin --edit-host
-This will open `notepad.exe` with host file and xampp vhost file.
+This will open `notepad.exe` with windows host file and xampp vhost file.
 
 ## Requirement
 Some command need elevated prompt ( *_**Run as Admin**_* ) such as :
