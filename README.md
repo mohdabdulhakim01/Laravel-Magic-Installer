@@ -30,7 +30,7 @@ Recommended Usage :
 
 For Lazy Load the project domain name :
 
-    laramin --install finaltest --hostname .local --apache-vhost
+    laramin --install project_name --hostname .local --apache-vhost
 
 To edit both window host file and xampp vhost file :
 
