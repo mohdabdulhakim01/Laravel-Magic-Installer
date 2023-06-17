@@ -1,0 +1,8 @@
+c:\users\pandaleader\documents\visual studio 2012\Projects\Laravel On The Go Installer\Laravel On The Go Installer\obj\Debug\Laravel On The Go Installer.csprojResolveAssemblyReference.cache
+c:\users\pandaleader\documents\visual studio 2012\Projects\Laravel On The Go Installer\Laravel On The Go Installer\bin\Debug\laramin.exe.config
+c:\users\pandaleader\documents\visual studio 2012\Projects\Laravel On The Go Installer\Laravel On The Go Installer\bin\Debug\laramin.exe
+c:\users\pandaleader\documents\visual studio 2012\Projects\Laravel On The Go Installer\Laravel On The Go Installer\bin\Debug\laramin.pdb
+c:\users\pandaleader\documents\visual studio 2012\Projects\Laravel On The Go Installer\Laravel On The Go Installer\obj\Debug\laramin.exe
+c:\users\pandaleader\documents\visual studio 2012\Projects\Laravel On The Go Installer\Laravel On The Go Installer\obj\Debug\laramin.pdb
+c:\users\pandaleader\documents\visual studio 2012\Projects\Laravel On The Go Installer\Laravel On The Go Installer\bin\Debug\Newtonsoft.Json.pdb
+c:\users\pandaleader\documents\visual studio 2012\Projects\Laravel On The Go Installer\Laravel On The Go Installer\bin\Debug\Newtonsoft.Json.xml

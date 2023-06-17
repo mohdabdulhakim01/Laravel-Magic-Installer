@@ -1,0 +1,8 @@
+c:\users\pandaleader\documents\visual studio 2012\Projects\Laravel On The Go Installer\Laravel On The Go Installer\bin\Release\laramin.exe.config
+c:\users\pandaleader\documents\visual studio 2012\Projects\Laravel On The Go Installer\Laravel On The Go Installer\bin\Release\laramin.exe
+c:\users\pandaleader\documents\visual studio 2012\Projects\Laravel On The Go Installer\Laravel On The Go Installer\bin\Release\laramin.pdb
+c:\users\pandaleader\documents\visual studio 2012\Projects\Laravel On The Go Installer\Laravel On The Go Installer\bin\Release\Newtonsoft.Json.dll
+c:\users\pandaleader\documents\visual studio 2012\Projects\Laravel On The Go Installer\Laravel On The Go Installer\bin\Release\Newtonsoft.Json.pdb
+c:\users\pandaleader\documents\visual studio 2012\Projects\Laravel On The Go Installer\Laravel On The Go Installer\bin\Release\Newtonsoft.Json.xml
+c:\users\pandaleader\documents\visual studio 2012\Projects\Laravel On The Go Installer\Laravel On The Go Installer\obj\Release\laramin.exe
+c:\users\pandaleader\documents\visual studio 2012\Projects\Laravel On The Go Installer\Laravel On The Go Installer\obj\Release\laramin.pdb
