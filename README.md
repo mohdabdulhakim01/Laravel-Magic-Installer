@@ -46,6 +46,18 @@ This will open `notepad.exe` with windows host file and xampp vhost file.
 Some command need elevated prompt ( *_**Run as Admin**_* ) such as :
 
     -eh, --edit-host, --hostname, and --apache-vhost
+
+## Customization
+You can create your own laravel configuration that might make your next copy and pasting project faster.then just zip your project and put it inside the */resource* folder as safeinstall.zip
+
+## Build Setting
+- Visual Studio 2012
+- Windows 10
+- DotNet 4.5
+
+## 3rd Party Library Reference
+- NewtonSoft JObject -  [Official Website](https://www.newtonsoft.com/)
+
 ## Note :
 
     - The project installation might take a few minutes . This is because there are too many files for extraction.
