@@ -4,6 +4,10 @@
 ## Description : 
 To install your own "copy & paste" laravel project easily and automatically configure window host file and XAMPP Apache Virtual Host file . So you can build your laravel file and quickly view it like *_**mywebsite.local**_*. 
 
+## Weird Note 👽
+Actually I thought the project name should be Laravel On The Go. Then when in the middle of developement. I suddenly change my mind and use Laravel Magic Installer name. But since the project already half way I don't want to rewrite whole project name just for that.
+
+## Note
 The laravel project included are laravel version 9.19 and also included .htaccess and server.php which is very useful **for me** 😂 and convenient without accessing url through */public* folder. 
 
 But since you are using this program. You can access all url with no problem .
