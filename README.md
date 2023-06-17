@@ -36,7 +36,7 @@ For Lazy Load the project domain name :
 
     laramin --install project_name --hostname .local --apache-vhost
 
-To edit both windos host file and xampp vhost file :
+To edit both windows host file and xampp vhost file :
 
     laramin -eh
     laramin --edit-host
